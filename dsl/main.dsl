@@ -12,6 +12,7 @@ start node root //start node
     #waitForSpeech(1000);
     #sayText("Hi whitetiger, this is Dasha calling from opiCall. Are you alright?");
     wait *; //wait for user speech
+    
   }
   transitions
   {
